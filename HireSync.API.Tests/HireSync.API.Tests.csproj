@@ -4,6 +4,7 @@
         <TargetFramework>net7.0</TargetFramework>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
+        <RootNamespace>JobSync.API.Tests</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
@@ -21,7 +22,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\JobSync.API\JobSync.API.csproj" />
+      <ProjectReference Include="..\HireSync.API\HireSync.API.csproj" />
     </ItemGroup>
 
 </Project>
