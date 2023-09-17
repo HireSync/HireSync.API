@@ -39,18 +39,20 @@ builder.Services.AddSwaggerGen(options =>
   options.SwaggerDoc("v1", new OpenApiInfo
   {
     Version = "v1",
-    Title = "JobSync API",
-    Description = "JobSync Restful API",
+    Title = "HireSync API",
+    Description = "HireSync Restful API",
+    /*
     TermsOfService = new Uri("https://jobsync.netlify.app/terms-of-service/"),
+    */
     Contact = new OpenApiContact
     {
-      Name = "Testigos de Vue",
-      Url = new Uri("https://jobsync.netlify.app/"),
+      Name = "Open Mind",
+      /*Url = new Uri("https://jobsync.netlify.app/"),*/
     },
     License = new OpenApiLicense
     {
-      Name = "Testigos de Vue Resources License",
-      Url = new Uri("https://jobsync.netlify.app/")
+      Name = "Open Mind Resources License",
+      /*Url = new Uri("https://jobsync.netlify.app/")*/
     }
   });
   options.EnableAnnotations();

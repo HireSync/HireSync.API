@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobSync.API", "JobSync.API\JobSync.API.csproj", "{B415DBAE-CEB4-498E-98EF-E505CB0B26E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HireSync.API", "HireSync.API\HireSync.API.csproj", "{B415DBAE-CEB4-498E-98EF-E505CB0B26E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobSync.API.Tests", "JobSync.API.Tests\JobSync.API.Tests.csproj", "{32A2DA8A-4E6B-4100-B6EF-030F8414BE7F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HireSync.API.Tests", "HireSync.API.Tests\HireSync.API.Tests.csproj", "{32A2DA8A-4E6B-4100-B6EF-030F8414BE7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
